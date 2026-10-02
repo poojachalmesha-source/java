@@ -1,0 +1,2 @@
+Exponent using Recursion.
+exp(2, 5);
